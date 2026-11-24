@@ -1,0 +1,25 @@
+Dark Z’s MKWDX Codepack
+
+Anti Penalty Code
+04540008 38600000
+
+No Disconnect on Countdown
+046510F0 60000000
+
+High Data Rate
+04653A20 28040007
+04653AD4 3B400000
+
+No Disconnect from Item Spamming
+04651D68 60000000
+04651D88 60000000
+04651D60 60000000
+
+Disable Camera Shaking
+0459EA18 4E800020
+
+No Starpower/Megashroom/Shrinkeffect Music
+047082B8 38000003
+
+Anti-Freeze
+046571EC 38000000
